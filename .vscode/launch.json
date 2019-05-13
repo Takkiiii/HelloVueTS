@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/HelloVueTS/bin/Debug/netcoreapp2.2/HelloVueTS.dll",
+            "program": "${workspaceFolder}/HelloVueTS/bin/Debug/netcoreapp2.0/HelloVueTS.dll",
             "args": [],
             "cwd": "${workspaceFolder}/HelloVueTS",
             "stopAtEntry": false,

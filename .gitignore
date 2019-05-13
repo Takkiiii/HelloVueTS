@@ -288,3 +288,5 @@ __pycache__/
 *.xsd.cs
 
 HelloVueTS/wwwroot/dist
+
+package-lock.json
